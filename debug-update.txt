@@ -1,8 +1,0 @@
-stdClass Object
-(
-    [id] => 1
-    [judul] => sfsf
-    [isi] => gggg
-    [penulis] => bgxg
-    [tanggal] => 2023-03-31
-)
